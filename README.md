@@ -1,3 +1,2 @@
-# Site Solar Prime
+# solar-prime
 
-Protótipo de site para empresa de energia fotovoltaica, feito em HTML, CSS e JS, hospedado no GitHub Pages.
